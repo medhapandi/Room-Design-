@@ -4,6 +4,8 @@ A modern, cross-platform mobile application designed to help users visualize and
 Open the Camera app and point it at this code.
 
 <img width="291" height="285" alt="image" src="https://github.com/user-attachments/assets/985cb646-3c99-4006-9caf-d171e07edd0c" />
+
+
 ## 🚀 Features
 - **Interactive Design Studio:** Drag-and-drop 2D interface for furniture arrangement.
 - **Room Architect:** Define custom room dimensions (width and depth).
