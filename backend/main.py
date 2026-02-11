@@ -304,9 +304,7 @@ if __name__ == "__main__":
     print("   POST /check-fitness - Check single furniture")
     print("   POST /check-multiple-fitness - Check multiple furniture")
     print("")
-    print("📡 Server running on: http://0.0.0.0:8000")
-    print("💻 Local access: http://localhost:8000")
     import os
     port = int(os.environ.get("PORT", 8000))
-    print(f"📡 Server running on: http://0.0.0.0:{port}")
+    print(f"🚀 Server starting on port {port}")
     uvicorn.run(app, host="0.0.0.0", port=port)
